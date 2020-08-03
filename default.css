@@ -15,6 +15,11 @@ h4 { font-size: 25px; }
 h5 { font-size: 20px; }
 h6 { font-size: 14px; }
 
+main {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
 nav {
     display: flex;
     justify-content: space-between;
